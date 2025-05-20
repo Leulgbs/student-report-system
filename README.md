@@ -39,7 +39,7 @@ Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-report-system.git
+   git clone https://github.com/Leulgbs/student-report-system.git
    cd student-report-system
    ```
 
